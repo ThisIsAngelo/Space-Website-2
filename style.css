@@ -159,7 +159,7 @@ header .container .content nav a:hover::after {
   min-height: 100vh;
   position: relative;
   overflow: hidden;
-  background: url("/assets/hero/hero-bg.jpeg");
+  background: url("assets/hero/hero-bg.jpeg");
   background-size: cover;
 }
 
@@ -435,7 +435,7 @@ header .container .content nav a:hover::after {
   margin-left: 4rem;
   width: 150px;
   height: 150px;
-  background-image: url("/assets/earth.jpg");
+  background-image: url("assets/earth.jpg");
   background-size: 200% 100%;
   background-repeat: repeat;
   border-radius: 50%;
@@ -487,7 +487,7 @@ header .container .content nav a:hover::after {
   right: -5%;
   width: 40em;
   height: 40em;
-  background-image: url("/assets/earth.jpg");
+  background-image: url("assets/earth.jpg");
   background-size: 200% 100%;
   background-repeat: repeat;
   border-radius: 50%;
@@ -772,7 +772,7 @@ header .container .content nav a:hover::after {
 .join {
   height: 75vh;
   position: relative;
-  background: url("/assets/join/bg.jpeg");
+  background: url("assets/join/bg.jpeg");
   background-size: cover;
   background-position: center;
   overflow: hidden;
